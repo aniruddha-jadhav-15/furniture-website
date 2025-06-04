@@ -196,22 +196,22 @@ span {
 }
 
 .category-card:nth-child(1) {
-  background: url(./assets/Images/category1.jpg);
+  background: url(./assets/Images/category1.webp);
   background-position: center;
   background-size: cover;
 }
 .category-card:nth-child(2) {
-  background: url(./assets/Images/category2.jpg);
+  background: url(./assets/Images/category2.webp);
   background-position: center;
   background-size: cover;
 }
 .category-card:nth-child(3) {
-  background: url(./assets/Images/category3.jpg);
+  background: url(./assets/Images/category3.webp);
   background-position: center;
   background-size: cover;
 }
 .category-card:nth-child(4) {
-  background: url(./assets/Images/category4.jpg);
+  background: url(./assets/Images/category4.webp);
   background-position: center;
   background-size: cover;
 }
@@ -370,7 +370,7 @@ small {
 /* About */
 
 .about-img {
-  background: url(./assets/Images/living-room.jpg);
+  background: url(./assets/Images/living-room.webp);
   background-position: center;
   background-size: cover;
   width: 25rem;
@@ -383,7 +383,7 @@ small {
 
 .about-img::before {
   content: "";
-  background: url(./assets/Images/bedroom.jpg);
+  background: url(./assets/Images/bedroom.webp);
   background-position: center;
   background-size: cover;
   position: absolute;
@@ -412,7 +412,7 @@ small {
 /* Fix Section */
 
 .fix-section {
-  background: url(./assets/Images/fix-bg.jpg);
+  background: url(./assets/Images/fix-bg.webp);
   background-repeat: no-repeat;
   position: relative;
   isolation: isolate;
@@ -474,17 +474,17 @@ small {
 }
 
 .prof-1 {
-  background: url(./assets/Images/profile1.jpg);
+  background: url(./assets/Images/profile1.webp);
   background-position: center;
   background-size: cover;
 }
 .prof-2 {
-  background: url(./assets/Images/profile2.jpg);
+  background: url(./assets/Images/profile2.webp);
   background-position: center;
   background-size: cover;
 }
 .prof-3 {
-  background: url(./assets/Images/profile3.jpg);
+  background: url(./assets/Images/profile3.webp);
   background-position: center;
   background-size: cover;
 }
@@ -531,7 +531,7 @@ small {
 /* FOOTER */
 
 .footer-bg {
-  background-image: url(./assets/Images/footer-bg.jpg);
+  background-image: url(./assets/Images/footer-bg.webp);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
